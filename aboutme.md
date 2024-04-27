@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: 2024
 ---
+### Background
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Contact Information
+**Email:** cvaage@uw.edu
 
-What else do you need?
+**Office:** School of Aquatic and Fishery Sciences, Fishery Sciences Building (FSH), Room 317B
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Mailing Address:** 
+1122 NE Boat St
+Seattle, WA 98105
+Attn: Claire Vaage
