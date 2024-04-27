@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Claire Vaage
 
 # Your name to show in the footer
-author: Some Person
+author: Claire Vaage
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:
+    - Interacting Invaders: "https://beautifuljekyll.com"
+    - Steelhead and Stable Isotopes: "https://www.markdowntutorial.com/"
+  CV: "https://deanattali.com"
 
 ################
 # --- Logo --- #
