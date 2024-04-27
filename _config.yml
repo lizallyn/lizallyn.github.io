@@ -24,7 +24,7 @@ navbar-links:
   Research:
     - Interacting Invaders: "https://beautifuljekyll.com"
     - Steelhead and Stable Isotopes: "https://www.markdowntutorial.com/"
-  CV: "https://deanattali.com"
+  CV: <embed src="https://cvaage.github.io/assets/VaageC_CV.pdf" type="application/pdf" />
 
 ################
 # --- Logo --- #
