@@ -1,5 +1,5 @@
 ----
 layout: page
-Title: Research
-Subtitle: Past & Present
+title: Research
+subtitle: Past & Present
 ----
