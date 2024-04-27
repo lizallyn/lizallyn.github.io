@@ -22,9 +22,9 @@ author: Claire Vaage
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Interacting Invaders: "https://beautifuljekyll.com"
-    - Steelhead and Stable Isotopes: "https://www.markdowntutorial.com/"
-  CV: <a href="assets/VaageC_CV.pdf" target="_blank">PDF.</a>
+    - Interacting Invaders: 
+    - Steelhead and Stable Isotopes: 
+  CV: "assets/VaageC_CV.pdf"
 
 ################
 # --- Logo --- #
