@@ -22,7 +22,7 @@ author: Claire Vaage
 navbar-links:
   About Me: "aboutme"
   Research: #"research"
-    - Interacting Invaders: #"https://cvaage.github.io/chapter1"
+    - Interacting Invaders: "https://cvaage.github.io/research/chapter1"
     - Steelhead and Stable Isotopes: #"https://cvaage.github.io/chapter2"
   CV: "assets/VaageC_CV.pdf"
 
