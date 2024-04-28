@@ -21,7 +21,7 @@ author: Claire Vaage
 
 navbar-links:
   About Me: "aboutme"
-  Research: "cvaage.github.io/assets/research"
+  Research: 
     - Interacting Invaders: 
     - Steelhead and Stable Isotopes: 
   CV: "assets/VaageC_CV.pdf"
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/W-Logo_White.png
 
 
 #####################################
