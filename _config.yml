@@ -21,9 +21,9 @@ author: Claire Vaage
 
 navbar-links:
   About Me: "aboutme"
-  Research: "https://cvaage.github.io/assets/research.md"
-    - Interacting Invaders: 
-    - Steelhead and Stable Isotopes: 
+  Research: "https://cvaage.github.io/assets/research"
+    - Interacting Invaders: "https://cvaage.github.io/assets/chapter1"
+    - Steelhead and Stable Isotopes: "https://cvaage.github.io/assets/chapter2"
   CV: "assets/VaageC_CV.pdf"
 
 ################
