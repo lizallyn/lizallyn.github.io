@@ -24,6 +24,8 @@ navbar-links:
   Research: #"https://cvaage.github.io/research/research"
     - Interacting Invaders: "https://cvaage.github.io/research/chapter1"
     - Steelhead and Stable Isotopes: "https://cvaage.github.io/research/chapter2"
+    - Past Research: "https://cvaage.github.io/research/pastresearch"
+  Outreach & Education: 
   CV: "assets/VaageC_CV.pdf"
 
 ################
