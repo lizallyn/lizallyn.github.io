@@ -6,4 +6,4 @@ title: Educational Outreach in my Home State
 ![LHBC](/assets/img/IMG_0223.JPG)
 
 ### Mountain Mondays in the Boise Foothills
-![Ride](/assets/img/IMG_5628.HEIC)
+![Ride](/assets/img/ride.png)
