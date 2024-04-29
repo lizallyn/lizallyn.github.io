@@ -26,9 +26,9 @@ navbar-links:
     - Steelhead and Stable Isotopes: "https://cvaage.github.io/research/chapter2"
     - Past Research: "https://cvaage.github.io/research/pastresearch"
   Outreach & Education: 
-    - Washington: "https://cvaage.github.io/outreach/Washington"
-    - Idaho: "https://cvaage.github.io/outreach/Idaho"
-  CV: "assets/CV_VaageC.pdf"
+    - Washington: "https://cvaage.github.io/outreach/washington"
+    - Idaho: "https://cvaage.github.io/outreach/idaho"
+  CV: #"assets/CV_VaageC.pdf"
 
 ################
 # --- Logo --- #
