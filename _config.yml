@@ -27,8 +27,8 @@ navbar-links:
     - Past Research: "https://cvaage.github.io/research/pastresearch"
   Outreach & Education: 
     - Washington: "https://cvaage.github.io/outreach/Washington"
-    - Idaho
-  CV: "assets/VaageC_CV.pdf"
+    - Idaho: "https://cvaage.github.io/outreach/Idaho"
+  CV: "assets/CV_VaageC.pdf"
 
 ################
 # --- Logo --- #
