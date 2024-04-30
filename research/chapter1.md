@@ -9,4 +9,4 @@ My research of my first chapter is based upon a funded grant from the Northwest 
 ### SciComm
 ESA 2023, Portland Oregon: Density-Driven Interactions Between Two Invaders with Implications for Endangered Salmon
 
-![model](assets/img/esa.png)
+![model](/assets/img/esa.png)
