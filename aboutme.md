@@ -3,17 +3,13 @@ layout: page
 title: About Me
 subtitle: 2024
 ---
-### Background
-The foundational years of my career can be summarized by a drive to understand how we view and manage the natural world. This ambition drove me to pursue a Bachelor of Arts degree in Environmental Studies at Boise State University. As an undergraduate, I was able to amass experience in education curricula development, local and state politics, and land management across the Western US. The pinnacle of my undergraduate career was being named a Top Ten Scholar of the 2022 graduating class. 
-
-I joined the [Freshwater Ecology and Conservation Lab](https://www.oldenfish.com/) at the University of Washington in the fall of 2022. Please see my [Research](https://cvaage.github.io/research/chapter1) page for more information about my current work. Beyond research, I hold a variety of roles within the School of Aquatic and Fishery Sciences. I founded and currently serve as the President of the [UW AFS Student Subunit](https://fish.uw.edu/students/student-and-career-opportunities/student-organizations/american-fisheries-society/). A passion for outreach and education continues as I serve as the Co-Lead of the Lesson Planning Committee for the volunteer group [Students Explore Aquatic Sciences](https://fish.uw.edu/alumni-community/students-explore-aquatic-sciences-seas/) (SEAS). Finally, I get to foster valuable community building and more through my role as Social Chair for the [Fisheries Interdisciplinary Network of Students](https://fish.uw.edu/students/student-organizations/fins-fisheries-interdisciplinary-network-of-students/) (FINS).
+### Who Am I?
+Liz is most interested in doing science to inform equitable resource management. Her thesis research is currently focused on evaluating management actions to address pinniped predation on salmon in Puget Sound in collaboration with Puget Sound tribes. At her day job as the Marine Mammal Technician for the Makah Tribe, Liz enjoys following whales around in boats, scooping sea lion poop, and deploying plankton nets in some of the most beautiful scenery Washington has to offer. Liz loves working at the intersection of science and policy and will talk your ear off about community-driven research and treaty resource management. When she’s not working, she’s probably working on her boat, buying supplies for a boat project, or maybe even sailing! She may also be found hiking, diving, reading, biking, and drinking copious amounts of tea.
 
 ### Contact Information
-**Email:** cvaage@uw.edu
+**UW Email:** lizallyn@uw.edu
 
-**Office:** School of Aquatic and Fishery Sciences, Fishery Sciences Building (FSH), Room 317B
+**Work Email:** liz.allyn@makah.com
 
-**Mailing Address:** 
-1122 NE Boat St
-Seattle, WA 98105
-Attn: Claire Vaage
+**Office:** School of Aquatic and Fishery Sciences, Fishery Sciences Building (FSH)
+
