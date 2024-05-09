@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liz Allyn
-subtitle: 2024
+subtitle: Marine Mammal Ecologist & Graduate Student
 ---
 ### Who Am I?
 Liz is most interested in doing science to inform equitable resource management. Her thesis research is currently focused on evaluating management actions to address pinniped predation on salmon in Puget Sound in collaboration with Puget Sound tribes.  
