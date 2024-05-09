@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Educational Outreach in my Home State
+title: Northwest Student Chapter of the Society for Marine Mammalogy
+subtitle: Chapter Co-Leader 2023 - 2025
 ---
 ### Youth Outdoor Education
 
