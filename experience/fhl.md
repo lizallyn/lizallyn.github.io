@@ -9,8 +9,10 @@ In Fall 2016 I was lucky to spend a quarter at Friday Harbor Labs on San Juan Is
 ### Does Tide Height Matter for Eelgrass Transplantation Success?
 
 
-
-
-
 ![](/assets/img/fhl_rainbow.JPG)
+
+During that quarter I also volunteered at the Whale Museum and was primarily tasked with scanning archived killer whale identification photo negatives to ensure their safe digital storage. 
+
+
+
 ![](/assets/img/whale_museum.JPG)
