@@ -21,14 +21,14 @@ author: Liz Allyn
 
 navbar-links:
   About Me: "aboutme"
-  Research: #"https://cvaage.github.io/research/research"
-    - Pinniped Management: "https://cvaage.github.io/research/chapter1"
-    - Gray Whale Prey: "https://cvaage.github.io/research/mysids"
-    - Sea Lion Entanglement: "https://cvaage.github.io/research/entanglement"
-    - Dolphin Behavior: "https://cvaage.github.io/research/dolphins"
+  Research: 
+    - Pinniped Management: "https://lizallyn.github.io/research/chapter1"
+    - Gray Whale Prey: "https://lizallyn.github.io/research/mysids"
+    - Sea Lion Entanglement: "https://lizallyn.github.io/research/entanglement"
+    - Dolphin Behavior: "https://lizallyn.github.io/research/dolphins"
   Outreach & Education: 
-    - Washington: "https://cvaage.github.io/outreach/washington"
-    - Idaho: "https://cvaage.github.io/outreach/idaho"
+    - Washington: "https://lizallyn.github.io/outreach/washington"
+    - Idaho: "https://lizallyn.github.io/outreach/idaho"
   CV: "assets/CV_VaageC.pdf"
 
 ################
