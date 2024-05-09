@@ -9,7 +9,6 @@ subtitle: Describing mysid species composition and distribution in NW Washington
 
 The Published article is available open access [here](https://peerj.com/articles/16587/).
 
-### SciComm
-TBA
+
 
 ![field](/assets/img/IMG_4866.JPG)
