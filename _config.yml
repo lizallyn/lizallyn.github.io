@@ -22,9 +22,10 @@ author: Liz Allyn
 navbar-links:
   About Me: "aboutme"
   Research: #"https://cvaage.github.io/research/research"
-    - Interacting Invaders: "https://cvaage.github.io/research/chapter1"
-    - Steelhead and Stable Isotopes: "https://cvaage.github.io/research/chapter2"
-    - Past Research: "https://cvaage.github.io/research/pastresearch"
+    - Pinniped Management: "https://cvaage.github.io/research/chapter1"
+    - Gray Whale Prey: "https://cvaage.github.io/research/mysids"
+    - Sea Lion Entanglement: "https://cvaage.github.io/research/entanglement"
+    - Dolphin Behavior: "https://cvaage.github.io/research/dolphins"
   Outreach & Education: 
     - Washington: "https://cvaage.github.io/outreach/washington"
     - Idaho: "https://cvaage.github.io/outreach/idaho"
