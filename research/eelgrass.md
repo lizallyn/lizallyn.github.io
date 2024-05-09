@@ -10,3 +10,5 @@ subtitle: Evaluating eelgrass transplantation success at Friday Harbor Labs
 
 
 
+![](/assets/img/fhl_rainbow.JPG)
+![](/assets/img/whale_museum.JPG)
