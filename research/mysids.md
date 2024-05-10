@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mysid Shrimp as Gray Whale Prey
+title: Gray Whale Ecology
 subtitle: Describing mysid species composition and distribution in NW Washington
 ---
 ### Can Monitoring Gray Whale Prey Help Us Understand Their Distribution?  
