@@ -6,7 +6,6 @@ subtitle: Describing mysid species composition and distribution in NW Washington
 ### Can Monitoring Gray Whale Prey Help Us Understand Their Distribution?  
 
 
-
 The Published article is available open access [here](https://peerj.com/articles/16587/).
 
 
