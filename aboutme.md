@@ -14,11 +14,11 @@ When she’s not working, she’s probably working on her boat, buying supplies 
 
     
 <p float = "center">
-  <img src="/assets/img/binoculars.png" width = "125">
-  <img src="/assets/img/georgetown.png" width = "125">
-  <img src="/assets/img/spearfish.png" width = "125">
-  <img src="/assets/img/sailing.png" width = "125">
-  <img src="/assets/img/ban_sea_lions.png" width = "125">
+  <img src="/assets/img/binoculars.png" width = "130">
+  <img src="/assets/img/georgetown.png" width = "130">
+  <img src="/assets/img/spearfish.png" width = "130">
+  <img src="/assets/img/sailing.png" width = "130">
+  <img src="/assets/img/ban_sea_lions.png" width = "130">
 </p>
 
 
