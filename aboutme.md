@@ -28,6 +28,10 @@ ul, li {
   display: inline;
 }
 
+#images {
+    white-space: nowrap;
+}
+
 <figure>
   <img src="/assets/img/binoculars.jpg" width = "150">
   <img src="/assets/img/georgetown.png" width = "150">
