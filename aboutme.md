@@ -11,19 +11,15 @@ At her day job as the Marine Mammal Technician for the Makah Tribe, Liz enjoys f
 
 When she’s not working, she’s probably working on her boat, buying supplies for a boat project, or maybe even sailing! She may also be found hiking, diving, reading, biking, and drinking copious amounts of tea.
 
-<style>
-#images {
-    white-space: nowrap;
-}
-</style>
+
     
-<figure>
+<p float = "left">
   <img src="/assets/img/binoculars.jpg" width = "150">
   <img src="/assets/img/georgetown.png" width = "150">
   <img src="/assets/img/spearfish.png" width = "150">
   <img src="/assets/img/sailing.png" width = "150">
   <img src="/assets/img/ban_sea_lions.png" width = "150">
-</figure>
+</p>
 
 
 ### Contact Information
