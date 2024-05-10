@@ -13,7 +13,7 @@ When she’s not working, she’s probably working on her boat, buying supplies 
 
 
     
-<p float = "left">
+<p float = "center">
   <img src="/assets/img/binoculars.jpg" width = "150">
   <img src="/assets/img/georgetown.png" width = "150">
   <img src="/assets/img/spearfish.png" width = "150">
