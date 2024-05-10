@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Claire Vaage
+title: Liz Allyn
 
 # Your name to show in the footer
 author: Liz Allyn
@@ -21,17 +21,11 @@ author: Liz Allyn
 
 navbar-links:
   About Me: "aboutme"
-  # Experience:
-  #   - Makah:
-  #   - FHL: "https://lizallyn.github.io/research/eelgrass"
   Research: 
     - Pinniped Management: "https://lizallyn.github.io/research/pinniped"
     - Gray Whale Prey: "https://lizallyn.github.io/research/mysids"
     - Sea Lion Entanglement: "https://lizallyn.github.io/research/entanglement"
     - Undergrad: "https://lizallyn.github.io/research/undergrad"
-    # - Dolphin Behavior: "https://lizallyn.github.io/research/capstone"
-    # - FHL: "https://lizallyn.github.io/research/fhl"
-    # - Dolphin Monitoring: "https://lizallyn.github.io/research/dolphins"
   Outreach & Service To Science: 
     - Makah Interns: "https://lizallyn.github.io/outreach/interns"
     - NWSSMM: "https://lizallyn.github.io/outreach/nwssmm"
