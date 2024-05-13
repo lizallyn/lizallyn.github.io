@@ -12,6 +12,12 @@ We conduct regular small boat surveys of the NW Washington Coast year-round to m
 
 In 2020 we published a paper reporting trends in haulout abundance and entanglement occurrence for both species from 2010 - 2018. The published article is available open access [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237178).
 
+<center>
+<p float = "center"
+  <img src="https://lizallyn.github.io/assets/img/ent_zc.png" alt="entangled california sea lion" height = "200" />
+  <img src="https://lizallyn.github.io/assets/img/ent_ej.png" alt="entangled steller sea lion" height = "200" />
+</p>
+</center>
 
 ### Diet
 
