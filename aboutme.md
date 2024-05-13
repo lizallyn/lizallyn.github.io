@@ -12,7 +12,7 @@ At her day job as the Marine Mammal Technician for the Makah Tribe, Liz enjoys f
 When she’s not working, she’s probably working on her boat, buying supplies for a boat project, or maybe even sailing! She may also be found hiking, diving, reading, biking, and drinking copious amounts of tea.
 
 
-    
+<center>
 <p float = "center">
   <img src="/assets/img/binoculars.png" width = "130">
   <img src="/assets/img/georgetown.png" width = "130">
@@ -20,7 +20,7 @@ When she’s not working, she’s probably working on her boat, buying supplies 
   <img src="/assets/img/sailing.png" width = "130">
   <img src="/assets/img/ban_sea_lions.png" width = "130">
 </p>
-
+</center>
 
 ### Contact Information
 **School Email:** lizallyn@uw.edu
