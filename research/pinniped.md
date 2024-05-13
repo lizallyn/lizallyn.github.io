@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pinniped Management
-subtitle: Modeling Individual Pinniped Behavioral Response to Tribal Harvest
+subtitle: Modeling Pinniped Behavioral Response to Tribal Harvest
 ---
 
 ### The Question
