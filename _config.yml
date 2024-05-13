@@ -21,17 +21,11 @@ author: Liz Allyn
 
 navbar-links:
   About Me: "aboutme"
-  # Experience:
-  #   - Makah:
-  #   - FHL: "https://lizallyn.github.io/research/eelgrass"
   Research: 
     - Pinniped Management: "https://lizallyn.github.io/research/pinniped"
     - Gray Whale Prey: "https://lizallyn.github.io/research/mysids"
     - Sea Lion Entanglement: "https://lizallyn.github.io/research/entanglement"
     - Undergrad: "https://lizallyn.github.io/research/undergrad"
-    # - Dolphin Behavior: "https://lizallyn.github.io/research/capstone"
-    # - FHL: "https://lizallyn.github.io/research/fhl"
-    # - Dolphin Monitoring: "https://lizallyn.github.io/research/dolphins"
   Outreach & Service To Science: 
     - Makah Interns: "https://lizallyn.github.io/outreach/interns"
     - NWSSMM: "https://lizallyn.github.io/outreach/nwssmm"
@@ -58,13 +52,10 @@ title-img: /assets/img/seal_whale_salmon_logo_triangle.png
 # --- Footer social media links --- #
 #####################################
 
-# Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "lizallyn@uw.edu"
   github: lizallyn
-  # twitter: VaageFisheries
+#  twitter: VaageFisheries
 #  medium: yourname
 #  reddit: yourname
   linkedin: elizabeth-allyn-853a2410b
@@ -81,7 +72,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
- ORCID: 0000-0002-7773-0277
+  ORCID: 0000-0002-7773-0277
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -92,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: EMA
+# rss-description: CJV
 
 ###########################
 # --- General options --- #

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thesis: Pinniped Management
+title: Pinniped Management
 subtitle: Modeling Individual Pinniped Behavioral Response to Tribal Harvest
 ---
 
