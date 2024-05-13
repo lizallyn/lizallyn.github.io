@@ -26,3 +26,4 @@ Papers based on the Steller sea lion diet work are in preparation or in review a
 <center>
 <img src="https://lizallyn.github.io/assets/img/scat.jpg" alt="scat collection" />
 </center>
+Collecting scat from Tatoosh Island, Makah Reservation, Neah Bay, WA
