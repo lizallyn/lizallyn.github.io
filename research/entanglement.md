@@ -4,6 +4,7 @@ title: Sea Lion Monitoring
 subtitle: Abundance, Entanglement, and Diet in NW Washington
 ---
 
+
 ### Abundance and Entanglement
 
 #### *What is the status of sea lions on the coast of NW Washington State?*
@@ -16,6 +17,8 @@ In 2020 we published a paper reporting trends in haulout abundance and entanglem
   <img src="https://lizallyn.github.io/assets/img/ent_zc.png" alt="entangled california sea lion" height = "200" />
   <img src="https://lizallyn.github.io/assets/img/ent_ej.png" alt="entangled steller sea lion" height = "200" />
 </center>
+
+
 
 ### Diet
 
