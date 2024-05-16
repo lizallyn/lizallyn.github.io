@@ -132,29 +132,47 @@ navbar-var-length: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
+# Pattern to follow for new palettes
+# contrast and matching
+
 # page-col: A
 # text-col: Z
-# link-col: Y
+# link-col: Y/Z
 # hover-col: X
 # navbar-col: B
 # navbar-text-col: Z
 # navbar-border-col: Z
 # footer-col: A
-# footer-text-col: Y
-# footer-link-col: Y
+# footer-text-col: Y/Z
+# footer-link-col: Y/Z
 # footer-hover-col: X
 
-page-col: "#132238"
-text-col: "#EBF0F6"
-link-col: "#EBF0F6"
-hover-col: "#98CCD3"
-navbar-col: "#364E68"
-navbar-text-col: "#EBF0F6"
-navbar-border-col: "#EBF0F6"
-footer-col: "#132238"
-footer-text-col: "#EBF0F6"
-footer-link-col: "#EBF0F6"
-footer-hover-col: "#98CCD3"
+## Sage/Beige and Dark Green
+# page-col: "#EEF0E5"
+# text-col: "#163020"
+# link-col: "#B67352"
+# hover-col: "#304D30"
+# navbar-col: "#B6C4B6"
+# navbar-text-col: "#163020"
+# navbar-border-col: "#163020"
+# footer-col: "#EEF0E5"
+# footer-text-col: "#163020"
+# footer-link-col: "#163020"
+# footer-hover-col: "#304D30"
+
+
+## Dark Blue and Gray
+# page-col: "#132238"
+# text-col: "#EBF0F6"
+# link-col: "#EBF0F6"
+# hover-col: "#98CCD3"
+# navbar-col: "#364E68"
+# navbar-text-col: "#EBF0F6"
+# navbar-border-col: "#EBF0F6"
+# footer-col: "#132238"
+# footer-text-col: "#EBF0F6"
+# footer-link-col: "#EBF0F6"
+# footer-hover-col: "#98CCD3"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
