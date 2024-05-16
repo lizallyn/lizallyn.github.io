@@ -25,6 +25,7 @@ The underlying data are available from Mendeley Data [here](https://data.mendele
 </center>
 
 
+
 ### Diet
 
 #### *What is the impact of Steller sea lion consumption on salmon?*
