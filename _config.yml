@@ -148,31 +148,31 @@ navbar-var-length: true
 # footer-hover-col: X
 
 ## Sage/Beige and Dark Green
-page-col: "#EEF0E5"
-text-col: "#163020"
-link-col: "#B67352"
-hover-col: "#304D30"
-navbar-col: "#B6C4B6"
-navbar-text-col: "#163020"
-navbar-border-col: "#163020"
-footer-col: "#EEF0E5"
-footer-text-col: "#163020"
-footer-link-col: "#163020"
-footer-hover-col: "#304D30"
+# page-col: "#EEF0E5"
+# text-col: "#163020"
+# link-col: "#B67352"
+# hover-col: "#304D30"
+# navbar-col: "#B6C4B6"
+# navbar-text-col: "#163020"
+# navbar-border-col: "#163020"
+# footer-col: "#EEF0E5"
+# footer-text-col: "#163020"
+# footer-link-col: "#163020"
+# footer-hover-col: "#304D30"
 
 
 ## Dark Blue and Gray
-# page-col: "#132238"
-# text-col: "#EBF0F6"
-# link-col: "#EBF0F6"
-# hover-col: "#98CCD3"
-# navbar-col: "#364E68"
-# navbar-text-col: "#EBF0F6"
-# navbar-border-col: "#EBF0F6"
-# footer-col: "#132238"
-# footer-text-col: "#EBF0F6"
-# footer-link-col: "#EBF0F6"
-# footer-hover-col: "#98CCD3"
+page-col: "#132238"
+text-col: "#EBF0F6"
+link-col: "#E1AFD1"
+hover-col: "#98CCD3"
+navbar-col: "#364E68"
+navbar-text-col: "#EBF0F6"
+navbar-border-col: "#EBF0F6"
+footer-col: "#364E68"
+footer-text-col: "#E1AFD1"
+footer-link-col: "#E1AFD1"
+footer-hover-col: "#98CCD3"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
