@@ -10,9 +10,8 @@ In summer 2016 I volunteered as a Research Intern with [Sea Watch Foundation](ht
 
 <center>
 <p float = "center">
-  <img src="/assets/img/many_snouts.JPG" height = "200">
-  <img src="/assets/img/wales_view.JPG" height = "200">
   <img src="/assets/img/quicksilver.JPG" height = "200">
+  <img src="/assets/img/wales_view.JPG" height = "200">
 </p>
 </center>
 
