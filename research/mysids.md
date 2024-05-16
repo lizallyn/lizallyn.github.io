@@ -4,7 +4,7 @@ title: Gray Whale Ecology
 subtitle: Research & Monitoring
 ---
 
-### Can Monitoring Gray Whale Prey Help Us Understand Their Distribution?  
+### Foraging Ecology 
 
 The distribution of gray whales throughout NW Washington is highly spatially and temporally variable. We've been conducting prey sampling using a bongo-style plankton net since 2019 at discrete foraging locations within our research area to monitor the prey base available to gray whales and help us understand one of the potential underlying factors determining their distribution.
 
@@ -22,7 +22,20 @@ A public Github Repository for the project analysis process is [here](https://gi
 ![](/assets/img/intern_net.JPG)
 *2023 Makah Fisheries Interns collecting a prey sample.*
 
-### Gray Whale Population Monitoring
+### Anthropogenic Scarring
+
+Estimates of injury and death due to anthropogenic sources, including ship strikes and entanglement, are key to understanding mortality rates that inform population abundance estimates. We used 7 years of photos of gray whales taken in our survey area to analyze the frequency of scarring from three different source types - ship strike, entanglement, and killer whale predation attempts. We then compared our results to those from a previous study in another gray whale feeding are (Sakhalin Island) to assess vulnerability across the population. 
+
+#### Open Science
+
+The full analysis is in review with the Journal of Cetacean Research and Management.
+
+A preliminary analysis was published as a working paper of the International Whaling Commission (IWC) and is available [here](https://archive.iwc.int/pages/download.php?ref=20026&ext=pdf&alternative=6315&noattach=true&k=).
+
+The underlying data are available from Mendeley Data [here](https://data.mendeley.com/datasets/ggm9x7th8g/1).
+
+
+### Population Monitoring
 
 I also assist with regular surveys of the Makah U&A to assess gray whale population abundance, movement, and survival. We photograph individuals for mark-recapture analyses; document body condition; collect biopsy samples for genetics, contaminants, and hormone analyses; and collect fecal samples for HABs detection. I conduct all types of sample collection, operate the research vessel, and am a named co-investigator on our permits.
 
