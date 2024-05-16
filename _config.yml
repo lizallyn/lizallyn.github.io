@@ -148,17 +148,17 @@ navbar-var-length: true
 # footer-hover-col: X
 
 ## Sage/Beige and Dark Green
-# page-col: "#EEF0E5"
-# text-col: "#163020"
-# link-col: "#B67352"
-# hover-col: "#304D30"
-# navbar-col: "#B6C4B6"
-# navbar-text-col: "#163020"
-# navbar-border-col: "#163020"
-# footer-col: "#EEF0E5"
-# footer-text-col: "#163020"
-# footer-link-col: "#163020"
-# footer-hover-col: "#304D30"
+page-col: "#EEF0E5"
+text-col: "#163020"
+link-col: "#B67352"
+hover-col: "#304D30"
+navbar-col: "#B6C4B6"
+navbar-text-col: "#163020"
+navbar-border-col: "#163020"
+footer-col: "#EEF0E5"
+footer-text-col: "#163020"
+footer-link-col: "#163020"
+footer-hover-col: "#304D30"
 
 
 ## Dark Blue and Gray
