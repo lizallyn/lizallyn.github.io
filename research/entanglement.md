@@ -20,8 +20,8 @@ The published article is available open access [here](https://journals.plos.org/
 The underlying data are available from Mendeley Data [here](https://data.mendeley.com/datasets/447sm2rwrk/1).
 
 <center>
-  <img src="https://lizallyn.github.io/assets/img/ent_zc.png" alt="entangled california sea lion" height = "200" />
-  <img src="https://lizallyn.github.io/assets/img/ent_ej.png" alt="entangled steller sea lion" height = "200" />
+  <img src="https://lizallyn.github.io/assets/img/ent_zc.png" alt="entangled california sea lion" height = "300" />
+  <img src="https://lizallyn.github.io/assets/img/ent_ej.png" alt="entangled steller sea lion" height = "300" />
 </center>
 
 
