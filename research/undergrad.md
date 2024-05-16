@@ -10,9 +10,9 @@ In summer 2016 I volunteered as a Research Intern with [Sea Watch Foundation](ht
 
 <center>
 <p float = "center">
-  <img src="/assets/img/many_snouts.JPG" height = "150">
-  <img src="/assets/img/wales_view.JPG" height = "150">
-  <img src="/assets/img/quicksilver.JPG" height = "150">
+  <img src="/assets/img/many_snouts.JPG" height = "200">
+  <img src="/assets/img/wales_view.JPG" height = "200">
+  <img src="/assets/img/quicksilver.JPG" height = "200">
 </p>
 </center>
 
@@ -24,8 +24,8 @@ During that quarter I also volunteered at the Whale Museum supervised by Jennife
 
 <center>
 <p float = "center">
-  <img src="/assets/img/fhl_rainbow.JPG" height = "150">
-  <img src="/assets/img/whale_museum.JPG" height = "150">
+  <img src="/assets/img/fhl_rainbow.JPG" height = "200">
+  <img src="/assets/img/whale_museum.JPG" height = "200">
 </p>
 </center>
 
@@ -35,7 +35,7 @@ In 2017 I was awarded an NSF Research Experience for Undergraduates at Georgetow
 
 <center>
 <p float = "center">
-  <img src="/assets/img/georgetown_full.png" height = "150">
+  <img src="/assets/img/georgetown_full.png" height = "200">
 </p>
 </center>
 
@@ -45,6 +45,6 @@ I continued my REU research on dolphin behavior as my UW SAFS undergraduate Caps
 
 <center>
 <p float = "center">
-  <img src="/assets/img/urs.JPG" height = "150">
+  <img src="/assets/img/urs.JPG" height = "200">
 </p>
 </center>
