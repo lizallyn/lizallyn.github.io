@@ -11,13 +11,18 @@ subtitle: Abundance, Entanglement, and Diet in NW Washington
 
 We conduct regular small boat surveys of the NW Washington Coast year-round to monitor use of four major haulout sites. We record counts, species and demographic composition, brand resights, entanglements, and any other interesting observations. This data is used to help us understand sea lion site use in this region and the differences between the two species (Steller and California sea lions). 
 
-In 2020 we published a paper reporting trends in haulout abundance and entanglement occurrence for both species from 2010 - 2018. The published article is available open access [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237178).
+#### Open Science
+
+In 2020 we published a paper reporting trends in haulout abundance and entanglement occurrence for both species from 2010 - 2018. 
+
+The published article is available open access [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237178). 
+
+The underlying data are available from MEndeley Data [here](https://data.mendeley.com/datasets/447sm2rwrk/1).
 
 <center>
   <img src="https://lizallyn.github.io/assets/img/ent_zc.png" alt="entangled california sea lion" height = "200" />
   <img src="https://lizallyn.github.io/assets/img/ent_ej.png" alt="entangled steller sea lion" height = "200" />
 </center>
-
 
 
 ### Diet
