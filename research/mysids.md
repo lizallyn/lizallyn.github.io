@@ -35,6 +35,8 @@ A preliminary analysis was published as a working paper of the International Wha
 The underlying data are available from Mendeley Data [here](https://data.mendeley.com/datasets/ggm9x7th8g/1).
 
 
+![](/assets/img/whale_rainbow.JPG)
+
 ### Population Monitoring
 
 I also assist with regular surveys of the Makah U&A to assess gray whale population abundance, movement, and survival. We photograph individuals for mark-recapture analyses; document body condition; collect biopsy samples for genetics, contaminants, and hormone analyses; and collect fecal samples for HABs detection. I conduct all types of sample collection, operate the research vessel, and am a named co-investigator on our permits.
