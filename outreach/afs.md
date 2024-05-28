@@ -1,12 +1,9 @@
 ---
 layout: page
 title: American Fisheries Society
-subtitle: UW Subunit Secretary
+subtitle: UW Student Subunit Secretary
 ---
 
 
-![LHBC](/assets/img/IMG_0223.JPG)
+![](/assets/img/uwafs.png)
 
-
-
-![Ride](/assets/img/ride.png)
