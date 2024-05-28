@@ -19,4 +19,6 @@ In 2023 we also published our first merchandise storefront with a logo that was 
 
 In the coming year we will be revamping our website and improving our recruitment efforts at Canadian institutions.
 
+This group is a great community and has been a resource and support network for me since undergrad. I love trying to create a similarly supportive and welcoming atmosphere for new students and helping us develop the kind of professional network in each other that we can rely on for the rest of our careers in this small marine mammal world.
+
 ![](/assets/img/nwssmm_logo.png)
