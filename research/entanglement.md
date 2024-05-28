@@ -5,7 +5,7 @@ subtitle: Abundance, Entanglement, and Diet
 ---
 
 
-### Abundance and Entanglement
+## Abundance and Entanglement
 
 #### *What is the status of sea lions on the coast of NW Washington State?*
 
@@ -13,9 +13,7 @@ We conduct regular small boat surveys of the NW Washington Coast year-round to m
 
 #### Open Science
 
-In 2020 we published a paper reporting trends in abundance and entanglement occurrence for both sea lion species from 2010 - 2018. 
-
-The published article is available open access [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237178). 
+In 2020 we published a paper reporting trends in abundance and entanglement occurrence for both sea lion species from 2010 - 2018. The published article is available open access [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237178). 
 
 The underlying data are available from Mendeley Data [here](https://data.mendeley.com/datasets/447sm2rwrk/1).
 
@@ -25,7 +23,7 @@ The underlying data are available from Mendeley Data [here](https://data.mendele
 </center>
 
 
-### Diet
+## Diet
 
 #### *What is the impact of Steller sea lion consumption on salmon?*
 
