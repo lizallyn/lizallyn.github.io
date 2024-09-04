@@ -17,7 +17,7 @@ In summer 2016 I volunteered as a Research Intern with [Sea Watch Foundation](ht
 
 ## Friday Harbor Labs (2016)
 
-Immediately after returning from Wales I moved up to Friday Harbor Labs on San Juan Island, WA for fall quarter. I studied fish biology and taxonomy, oceanography, and took a hands-on marine research class advised by Dr. Sylvia Yang. In the research class we designed and carried out research projects on eelgrass transplantation and restoration. Our project focused on figuring out whether tide height matters for eelgrass transplantation success - either on the donor or recipient end. We presented our results to the Samish Tribal Department of Natural Resources and at the UW Undergraduate Research Symposium. 
+Immediately after returning from Wales I moved up to the University of Washington's Friday Harbor Labs on San Juan Island, WA for fall quarter. I studied fish biology and taxonomy, oceanography, and took a hands-on marine research class advised by Dr. Sylvia Yang. In the research class we designed and carried out research projects on eelgrass transplantation and restoration. Our project focused on figuring out whether tide height matters for eelgrass transplantation success - either on the donor or recipient end. We presented our results to the Samish Tribal Department of Natural Resources and at the UW Undergraduate Research Symposium. 
 
 During that quarter I also volunteered at the Whale Museum supervised by Jennifer Olson and was primarily tasked with scanning archived killer whale identification photo negatives to ensure their safe digital storage. This was a great opportunity to practice my individual photo matching skills on a new species.
 

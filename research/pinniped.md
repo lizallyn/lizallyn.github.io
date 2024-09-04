@@ -4,6 +4,8 @@ title: Pinniped Management
 subtitle: Modeling Pinniped Behavioral Response to Tribal Harvest
 ---
 
+#### *In pursuit of my MSc at the University of Washington's School of Aquatic and Fishery Sciences*
+
 ### The Question
 Pinnipeds and salmon have been actively managed by tribes in the Salish Sea since time immemorial. Pinniped harvest impacted pinniped populations directly through removals, indirectly through disturbance, and spatially by excluding them from easily accessible areas near village sites, which often included important salmon migration routes. Current management practices struggle to balance pinniped recovery success with the need to protect the threatened salmon populations they prey on. Providing pathways for tribes in Puget Sound, Washington, USA to exercise their treaty rights to harvest pinnipeds in a way that mitigates salmon predation hotspots could be an effective management strategy that balances complex conservation objectives while operating within existing legal and political frameworks. 
 

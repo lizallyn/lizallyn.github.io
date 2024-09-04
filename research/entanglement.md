@@ -9,7 +9,7 @@ subtitle: Abundance, Entanglement, and Diet
 
 #### *What is the status of sea lions on the coast of NW Washington State?*
 
-We conduct regular small boat surveys of the NW Washington Coast year-round to monitor use of four major haulout sites by three main species of pinniped in our area - Steller and California Sea Lions and Harbor Seals. We record counts, species and demographic composition, brand resights, entanglements, and any other interesting observations. This data is used to help us understand sea lion site use and abundance trends in this region. 
+The Makah Tribe conducts regular small boat surveys of the NW Washington Coast year-round to monitor use of four major haulout sites by three main species of pinniped in our area - Steller and California Sea Lions and Harbor Seals. We record counts, species and demographic composition, brand resights, entanglements, and any other interesting observations. This data is used to help us understand sea lion site use and abundance trends in this region. 
 
 #### Open Science
 
@@ -27,7 +27,7 @@ The underlying data are available from Mendeley Data [here](https://data.mendele
 
 #### *What is the impact of Steller sea lion consumption on salmon?*
 
-During surveys of the coast we also collect scat samples for diet and genetic analysis. While we primarily target Steller sea lions for regular scat collection efforts, we have also focused on harbor seal diet, though this proved extremely challenging. Processing of scats and analysis of the implications was conducted by Zoë Lewis during her Master's at Western Washington University. 
+During surveys of the Makah U&A we also collect scat samples for diet and genetic analysis. While we primarily target Steller sea lions for regular scat collection efforts, we have also focused on harbor seal diet, though this proved extremely challenging especially in the stormy winter. Processing of scats and analysis of the implications was conducted by Zoë Lewis during her MSc at Western Washington University. 
 
 #### Open Science
 
@@ -36,7 +36,7 @@ A paper describing harbor seal diet based on our scat collection is available [h
 The underlying data is available from Mendeley Data [here](https://data.mendeley.com/datasets/mb5pjwzdc2/1).
 
 Papers based on the Steller sea lion diet work are in preparation or in review and will hopefully be available soon. Zoë's thesis can be accessed [here](https://faculty.aceveda.wwu.edu/PDFs/theses/Lewis%20thesis.pdf).
-Madison Gard (WWU undergraduate) also published a study (which I am not an author on) that used the same scat samples to assess a genetic sex determination technique. That paper is available [here](https://link.springer.com/article/10.1007/s12686-024-01358-2).
+Madison Gard (WWU undergraduate) also published a study (that I was not involved with) that used the same scat samples to assess a genetic sex determination technique. That paper is available [here](https://link.springer.com/article/10.1007/s12686-024-01358-2).
 
 
 <center>
