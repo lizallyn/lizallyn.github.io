@@ -28,7 +28,7 @@ Estimates of injury and death due to anthropogenic sources, including ship strik
 
 #### Open Science
 
-The full analysis is in review with the Journal of Cetacean Research and Management.
+The published article is available open access from the Journal of Cetacean Research and Management [here](https://journal.iwc.int/index.php/jcrm/article/view/1044)
 
 A preliminary analysis was published as a working paper of the International Whaling Commission (IWC) and is available [here](https://archive.iwc.int/pages/download.php?ref=20026&ext=pdf&alternative=6315&noattach=true&k=).
 
