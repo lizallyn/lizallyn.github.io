@@ -5,7 +5,7 @@ subtitle: Chapter Leader 2023 - 2025
 ---
 ### 2024 Annual Conference
 
-I led the planning team for this year's annual meeting hosted by UW in Seattle, WA. We gathered 27 students from 8 programs at 3 institutions in Washington and Oregon (University of Washington, Oregon State University, Western Washington University) for a full day of presentations on the high caliber original research students are conducting in our region. I secured grant funding to cover planning expenses, managed the budget, and coordinated our 4-person student planning team. 
+I led the planning team for the 2024 annual meeting hosted by UW in Seattle, WA. We gathered 27 students from 8 programs at 3 institutions in Washington and Oregon (University of Washington, Oregon State University, Western Washington University) for a full day of presentations on the high caliber original research students are conducting in our region. I secured grant funding to cover planning expenses, managed the budget, and coordinated our 4-person student planning team. 
 
 ![nwssmm](/assets/img/nwssmm.jpg)
 
