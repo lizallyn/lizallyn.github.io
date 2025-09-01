@@ -26,9 +26,10 @@ navbar-links:
     - Gray Whales: "https://lizallyn.github.io/research/mysids"
     - Sea Lions: "https://lizallyn.github.io/research/entanglement"
     - Undergrad: "https://lizallyn.github.io/research/undergrad"
-  Outreach: 
-    - Interns: "https://lizallyn.github.io/outreach/interns"
-    - NWSSMM: "https://lizallyn.github.io/outreach/nwssmm"
+  The Gauntlet Model: "https://lizallyn.github.io/pinniped
+  # Outreach: 
+  #   - Interns: "https://lizallyn.github.io/outreach/interns"
+  #   - NWSSMM: "https://lizallyn.github.io/outreach/nwssmm"
   CV: "assets/Allyn_CV_2025Feb.pdf"
 
 ################
