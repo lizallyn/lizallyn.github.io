@@ -9,8 +9,8 @@ subtitle: Modeling Pinniped Behavioral Response to Tribal Harvest
 ### Project Products
 M.S. Thesis available online from [ProQuest.](https://www.proquest.com/openview/7d5846149edd308ee68e768b1880353e/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
-M.S. Thesis Defense presentation recording can be viewed on [Zoom]
-(https://us06web.zoom.us/recording/detail?meeting_id=zNHXKzpoRJOKn1zhwWBskQ%3D%3D)
+M.S. Thesis Defense presentation recording can be viewed on [Zoom](https://us06web.zoom.us/recording/detail?meeting_id=zNHXKzpoRJOKn1zhwWBskQ%3D%3D)
+
 Passcode: h!U?=fL9
 
 ### The Question
