@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pinniped Management
+title: The Gauntlet Model
 subtitle: Modeling Pinniped Behavioral Response to Tribal Harvest
 ---
 
