@@ -7,7 +7,7 @@ subtitle: Modeling Pinniped Behavioral Response to Tribal Harvest
 #### *Completed as part of my M.S. Thesis at the University of Washington's School of Aquatic and Fishery Sciences*
 
 ### Project Products
-M.S. Thesis available online from [ProQuest.](https://www.proquest.com/openview/7d5846149edd308ee68e768b1880353e/1?pq-origsite=gscholar&cbl=18750&diss=y)
+M.S. Thesis titled "Participatory Modeling to Evaluate Tribal Pinniped Harvest in Puget Sound as a Tool for Salmon Recovery" is available online from [ProQuest.](https://www.proquest.com/openview/7d5846149edd308ee68e768b1880353e/1?pq-origsite=gscholar&cbl=18750&diss=y)
 It can also be downloaded from the Github Repository [here.](https://github.com/lizallyn/TheGauntletModel/blob/main/Manuscripts/Allyn_Thesis%202025.pdf)
 
 M.S. Thesis Defense presentation recording can be viewed on [Zoom](https://us06web.zoom.us/recording/detail?meeting_id=zNHXKzpoRJOKn1zhwWBskQ%3D%3D)
