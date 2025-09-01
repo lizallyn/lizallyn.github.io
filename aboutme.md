@@ -11,7 +11,7 @@ She has a Master’s in Aquatic and Fishery Sciences from the University of Wash
 
 Liz previously spent 6+ years with the Makah Tribe researching marine mammals to support treaty rights, which mostly included following whales around in boats, scooping sea lion poop, deploying plankton nets, and mentoring tribal youth in some of the most beautiful scenery Washington has to offer. Liz loves working at the intersection of science and policy and will talk your ear off about community-driven research and treaty resource management.   
 
-When she’s not working, she’s probably working on her boat, buying supplies for a boat project, or maybe even sailing! She may also be found hiking, diving, reading, biking, and drinking copious amounts of tea.
+When she’s not working, she’s probably working on her boat, buying supplies for a boat project, or maybe even sailing! She may also be found surfing, reading, playing volleyball, and drinking copious amounts of tea.
 
 
 <center>
