@@ -21,7 +21,14 @@ author: Liz Allyn
 
 navbar-links:
   About Me: "aboutme"
-  The Gauntlet Model: "https://lizallyn.github.io/thesis"
+  Research: 
+    - Thesis: "https://lizallyn.github.io/research/pinniped"
+    - Gray Whales: "https://lizallyn.github.io/research/mysids"
+    - Sea Lions: "https://lizallyn.github.io/research/entanglement"
+    - Undergrad: "https://lizallyn.github.io/research/undergrad"
+  Outreach:
+    - Interns: "https://lizallyn.github.io/outreach/interns"
+    - NWSSMM: "https://lizallyn.github.io/outreach/nwssmm"
   CV: "assets/Allyn_CV_2025Feb.pdf"
 
 ################
