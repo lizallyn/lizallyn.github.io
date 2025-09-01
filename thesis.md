@@ -4,7 +4,8 @@ title: The Gauntlet Model
 subtitle: Modeling Pinniped Behavioral Response to Tribal Harvest
 ---
 
-![](/assets/img/zc sea lion filled.png width = "130")
+![](/assets/img/zc sea lion filled.png)
+<img src="/assets/img/zc sea lion filled.png" alt="drawing" width="200"/>
 
 
 ### Project Products
