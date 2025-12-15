@@ -22,6 +22,12 @@ M.S. Thesis Defense presentation recording can be viewed on [Zoom](https://us06w
 ### Model Repositories
 The model is available publicly in a few different forms in GitHub repositories. A basic 1 predator - 1 prey version of the model can be found in repo [TheGauntletModel](https://github.com/lizallyn/TheGauntletModel). The files and outputs associated with our initial model explorations and manipulations (Chapter 2 of my thesis) can be found in repo [GauntletModelManipulations](https://github.com/lizallyn/GauntletModelManipulations).
 
+<center>
+<p float = "center">
+  <img src="/assets/img/seal filled thinner outline 2.png" alt="drawing" width="500"/>
+</p>
+</center>
+
 ## Motivation
 Pinnipeds and salmon have been actively managed by tribes in the Salish Sea since time immemorial. Pinniped harvest impacted pinniped populations directly through removals, indirectly through disturbance, and spatially by excluding them from easily accessible areas near village sites, which often included important salmon migration routes. Current management practices struggle to balance pinniped recovery success with the need to protect the threatened salmon populations they prey on. Providing pathways for tribes in Puget Sound, Washington, USA to exercise their treaty rights to harvest pinnipeds in a way that mitigates salmon predation hotspots could be an effective management strategy that balances complex conservation objectives while operating within existing legal and political frameworks. 
 
